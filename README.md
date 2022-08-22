@@ -7,7 +7,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorAlemao&show_icons=true&theme=OmniOwl)
 
 
-## Tecnologias que uso no meu dia
+## Tecnologias que uso no meu Dia-a-Dia
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
